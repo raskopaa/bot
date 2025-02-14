@@ -1,0 +1,13 @@
+pyyaml
+openai
+Jinja2
+python-telegram-bot
+pgvector
+graypy
+elasticsearch
+databases
+markdownify
+asyncpg
+pillow
+pyzbar
+zbar
